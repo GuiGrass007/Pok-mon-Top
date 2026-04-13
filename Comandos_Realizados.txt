@@ -1,3 +1,56 @@
+
+-----------Matheus Sturza--------------------
+
+estudos@REDM12-HKR9M83 MINGW64 ~/Documents
+$ git clone https://github.com/GuiGrass007/Pok-mon-Top.git
+Cloning into 'Pok-mon-Top'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+estudos@REDM12-HKR9M83 MINGW64 ~/Documents
+$ cd Pok-mon-Top
+
+estudos@REDM12-HKR9M83 MINGW64 ~/Documents/Pok-mon-Top (main)
+$ git add .
+
+estudos@REDM12-HKR9M83 MINGW64 ~/Documents/Pok-mon-Top (main)
+$ git commit -am "mudancas topppppp"
+[main caacbcf] mudancas topppppp
+ Committer: Estudos <estudos@svs.iffarroupilha.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+estudos@REDM12-HKR9M83 MINGW64 ~/Documents/Pok-mon-Top (main)
+$ git push https://github.com/MatheusSturza33/Pok-mon-Top
+info: please complete authentication in your browser...
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 292 bytes | 292.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MatheusSturza33/Pok-mon-Top
+   3ae224d..caacbcf  main -> main
+
+estudos@REDM12-HKR9M83 MINGW64 ~/Documents/Pok-mon-Top (main)
+$
+
+
 ---------------------------------------------------------Guilherme Grass---------------------------------------------------------------
 gui_grass@debian-btw:~/Aulas/5 Semestre/Git/Atividade Pull Request$ git init
 hint: Using 'master' as the name for the initial branch. This default branch name
