@@ -1,3 +1,4 @@
+
 -----------Matheus Sturza--------------------
 
 estudos@REDM12-HKR9M83 MINGW64 ~/Documents
@@ -50,9 +51,7 @@ estudos@REDM12-HKR9M83 MINGW64 ~/Documents/Pok-mon-Top (main)
 $
 
 
-
-
-Guilherme Grass:
+---------------------------------------------------------Guilherme Grass---------------------------------------------------------------
 gui_grass@debian-btw:~/Aulas/5 Semestre/Git/Atividade Pull Request$ git init
 hint: Using 'master' as the name for the initial branch. This default branch name
 hint: will change to "main" in Git 3.0. To configure the initial branch name
@@ -168,3 +167,32 @@ Writing objects: 100% (3/3), 236 bytes | 236.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/GuiGrass007/Pok-mon-Top.git
  * [new branch]      main -> main
+
+
+-------------------------------Guilherme Araujo---------------------------------------
+2024010599@REDM10-G8FRVG2 MINGW64 ~/Desktop/Trabaio
+$ git clone https://github.com/GuiGrass007/Pok-mon-Top.git
+Cloning into 'Pok-mon-Top'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+2024010599@REDM10-G8FRVG2 MINGW64 ~/Desktop/Trabaio/Pok-mon-Top (main)
+$ git commit -a -m "Adicionando minha parte do trabalho"
+[main 230559b] Adicionando minha parte do trabalho
+ 1 file changed, 1 insertion(+)
+
+2024010599@REDM10-G8FRVG2 MINGW64 ~/Desktop/Trabaio/Pok-mon-Top (main)
+$ git push https://github.com/guikts/Pok-mon-Top.git
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 339 bytes | 339.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/guikts/Pok-mon-Top.git
+   3ae224d..230559b  main -> main
+
